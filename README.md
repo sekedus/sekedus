@@ -17,6 +17,7 @@ Repository topics:
 - [page](https://github.com/sekedus?tab=repositories&q=topic%3Apage)
 - [docs](https://github.com/sekedus?tab=repositories&q=topic%3Adocs)
 - [contributing](https://github.com/sekedus?tab=repositories&q=topic%3Acontributing)
+- [advanced](https://github.com/sekedus?tab=repositories&q=topic%3Aadvanced)
 - [archive](https://github.com/sekedus?tab=repositories&q=topic%3Aarchive)
 
 ㅤ
